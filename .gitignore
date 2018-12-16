@@ -119,6 +119,7 @@ fabric.properties
 
 ## Intellij Idea ignore files
 *.iml
+/**/*.iml
 /**/target/
 # Editor-based Rest Client
 .idea/httpRequests
